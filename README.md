@@ -13,6 +13,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Subject Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#subject-control)
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
 - [Video Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#video-control)
+- [Brain Control]()
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -273,5 +274,14 @@ Customizing Motion in Text-to-Video Diffusion Models
 
 [📄 Paper](https://arxiv.org/pdf/2312.04966.pdf) | [🌐 Project Page](https://joaanna.github.io/customizing_motion/)
 
+## Brain Control 
+
+NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
+
+[📄 Paper](https://arxiv.org/abs/2402.01590)
+
+Mind-Video: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+
+[📄 Paper](https://arxiv.org/abs/2305.11675) | [🌐 Project Page](https://www.mind-video.com/) | [💻 Code](https://github.com/jqin4749/MindVideo)
 
 
