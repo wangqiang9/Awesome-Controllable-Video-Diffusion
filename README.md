@@ -11,6 +11,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
 - [Subject Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#subject-control)
+- [Area Control]()
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -222,5 +223,16 @@ ActAnywhere: Subject-Aware Video Background Generation
 MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
 [📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
+
+## Area Control
+
+Boximator: Generating Rich and Controllable Motions for Video Synthesis
+
+[📄 Paper](https://arxiv.org/abs/2402.01566) | [🌐 Project Page](https://boximator.github.io/)
+
+Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts
+
+[📄 Paper](https://arxiv.org/abs/2403.08268) | [🌐 Project Page](https://follow-your-click.github.io/) [💻 Code](https://github.com/mayuelala/FollowYourClick)
+
 
 
