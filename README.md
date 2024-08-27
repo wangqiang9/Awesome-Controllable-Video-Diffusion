@@ -226,6 +226,10 @@ Generative Image Dynamics
 
 [📄 Paper](https://arxiv.org/abs/2309.07906) | [🌐 Project Page](https://generative-dynamics.github.io/)
 
+Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2401.10150)
+
 ## Subject Control
 
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
