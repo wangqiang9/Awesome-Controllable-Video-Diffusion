@@ -274,6 +274,10 @@ Customizing Motion in Text-to-Video Diffusion Models
 
 [📄 Paper](https://arxiv.org/pdf/2312.04966.pdf) | [🌐 Project Page](https://joaanna.github.io/customizing_motion/)
 
+MotionClone: Training-Free Motion Cloning for Controllable Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2406.05338) | [🌐 Project Page](https://bujiazi.github.io/motionclone.github.io/) | [💻 Code](https://github.com/Bujiazi/MotionClone)
+
 ## Brain Control 
 
 NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
