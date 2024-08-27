@@ -245,6 +245,10 @@ MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
 [📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
 
+Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2307.06940) | [💻 Code](https://github.com/AILab-CVC/Animate-A-Story)
+
 ## Area Control
 
 Boximator: Generating Rich and Controllable Motions for Video Synthesis
