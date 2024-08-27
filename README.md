@@ -10,7 +10,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#universal-control)
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
-- [Subject Control]()
+- [Subject Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#subject-control)
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -116,6 +116,10 @@ UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Mod
 
 [📄 Paper](https://arxiv.org/pdf/2403.02332.pdf) | [🌐 Project Page](https://unified-attention-control.github.io/) [💻 Code](https://github.com/XuweiyiChen/UniCtrl)
 
+SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/abs/2311.16933) | [🌐 Project Page](https://guoyww.github.io/projects/SparseCtrl/) [💻 Code](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
+
 ## Camera Control
 
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
@@ -202,5 +206,13 @@ Generative Image Dynamics
 [📄 Paper](https://arxiv.org/abs/2309.07906) | [🌐 Project Page](https://generative-dynamics.github.io/)
 
 ## Subject Control
+
+Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
+
+[📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) [💻 Code](https://github.com/ysy31415/direct_a_video)
+
+ActAnywhere: Subject-Aware Video Background Generation
+
+[📄 Paper](https://arxiv.org/abs/2401.10822) | [🌐 Project Page](https://actanywhere.github.io/)
 
 
