@@ -57,6 +57,10 @@ MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation.
 
 [💻 Code](https://github.com/TMElyralab/MusePose)
 
+MDM: Human Motion Diffusion Model
+
+[📄 Paper](https://arxiv.org/abs/2209.14916) | [🌐 Project Page](https://guytevet.github.io/mdm-page/) [💻 Code](https://github.com/GuyTevet/motion-diffusion-model)
+
 ## Audio Control
 
 Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
