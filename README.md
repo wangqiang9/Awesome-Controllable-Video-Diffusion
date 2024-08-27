@@ -53,16 +53,38 @@ HumanVid: Demystifying Training Data for Camera-controllable Human Image Animati
 
 [📄 Paper](https://arxiv.org/abs/2407.17438) | [🌐 Project Page](https://humanvid.github.io/) [💻 Code](https://github.com/zhenzhiwang/HumanVid)
 
-Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
+MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation.
 
-[📄 Paper](https://arxiv.org/abs/2304.01186) | [🌐 Project Page](https://follow-your-pose.github.io/) [💻 Code](https://github.com/mayuelala/FollowYourPose)
+[💻 Code](https://github.com/TMElyralab/MusePose)
 
-## Motion Control
+## Audio Control
 
+Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
+[📄 Paper](https://arxiv.org/pdf/2404.01862) | [🌐 Project Page](https://thuhcsi.github.io/S2G-MDDiffusion/) [💻 Code](https://github.com/thuhcsi/S2G-MDDiffusion)
 
+Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation
+
+[📄 Paper](https://arxiv.org/abs/2309.16429) | [🌐 Project Page](https://pages.cs.huji.ac.il/adiyoss-lab/TempoTokens/) [💻 Code](https://github.com/guyyariv/TempoTokens)
+
+MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2212.09478) | [💻 Code](https://github.com/researchmm/MM-Diffusion)
+
+Speech Driven Video Editing via an Audio-Conditioned Diffusion Model
+
+[📄 Paper](https://arxiv.org/abs/2301.04474) | [🌐 Project Page](https://danbigioi.github.io/DiffusionVideoEditing/) [💻 Code](https://github.com/DanBigioi/DiffusionVideoEditing)
+
+Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+
+[📄 Paper](https://arxiv.org/pdf/2406.08801) | [🌐 Project Page](https://fudan-generative-vision.github.io/hallo/#/) [💻 Code](https://github.com/fudan-generative-vision/hallo)
+
+Listen, denoise, action! Audio-driven motion synthesis with diffusion models
+
+[📄 Paper](https://arxiv.org/abs/2211.09707) | [🌐 Project Page](https://www.speech.kth.se/research/listen-denoise-action/) [💻 Code](https://github.com/simonalexanderson/ListenDenoiseAction/)
 
 ## Camera Control
+
 MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 
 [📄 Paper](https://arxiv.org/pdf/2312.03641.pdf) | [🌐 Project Page](https://wzhouxiff.github.io/projects/MotionCtrl/) [💻 Code](https://github.com/TencentARC/MotionCtrl)
@@ -90,3 +112,9 @@ Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Con
 HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation
 
 [📄 Paper](https://arxiv.org/abs/2407.17438) | [🌐 Project Page](https://humanvid.github.io/) [💻 Code](https://github.com/zhenzhiwang/HumanVid)
+
+Training-free Camera Control for Video Generation
+
+[📄 Paper](https://arxiv.org/pdf/2406.10126) | [🌐 Project Page](https://lifedecoder.github.io/CamTrol/)
+
+
