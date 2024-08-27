@@ -149,6 +149,10 @@ Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
 
 [📄 Paper](https://arxiv.org/pdf/2406.17601) | [🌐 Project Page](https://imlixinyang.github.io/director3d-page/) [💻 Code](https://github.com/imlixinyang/director3d)
 
+MotionBooth: Motion-Aware Customized Text-to-Video Generation
+
+[📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
+
 
 ## Trajectory Control
 
