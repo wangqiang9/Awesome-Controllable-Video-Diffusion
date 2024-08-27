@@ -111,6 +111,10 @@ Make-Your-Video: Customized Video Generation Using Textual and Structural Guidan
 
 [📄 Paper](https://arxiv.org/abs/2306.00943) | [🌐 Project Page](https://doubiiu.github.io/projects/Make-Your-Video/) [💻 Code](https://github.com/VideoCrafter/Make-Your-Video)
 
+UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control
+
+[📄 Paper](https://arxiv.org/pdf/2403.02332.pdf) | [🌐 Project Page](https://unified-attention-control.github.io/) [💻 Code](https://github.com/XuweiyiChen/UniCtrl)
+
 ## Camera Control
 
 MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
