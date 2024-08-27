@@ -87,7 +87,7 @@ Listen, denoise, action! Audio-driven motion synthesis with diffusion models
 
 [📄 Paper](https://arxiv.org/abs/2211.09707) | [🌐 Project Page](https://www.speech.kth.se/research/listen-denoise-action/) [💻 Code](https://github.com/simonalexanderson/ListenDenoiseAction/)
 
-## Universal control
+## Universal Control
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://pbihao.github.io/projects/controlnext/index.html) [💻 Code](https://github.com/dvlab-research/ControlNeXt)
@@ -137,5 +137,37 @@ HumanVid: Demystifying Training Data for Camera-controllable Human Image Animati
 Training-free Camera Control for Video Generation
 
 [📄 Paper](https://arxiv.org/pdf/2406.10126) | [🌐 Project Page](https://lifedecoder.github.io/CamTrol/)
+
+Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
+
+[📄 Paper](https://arxiv.org/pdf/2406.17601) | [🌐 Project Page](https://imlixinyang.github.io/director3d-page/) [💻 Code](https://github.com/imlixinyang/director3d)
+
+
+## Trajectory control
+
+FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/abs/2406.16863) | [🌐 Project Page](http://haonanqiu.com/projects/FreeTraj.html) [💻 Code](https://github.com/arthur-qiu/FreeTraj)
+
+TrailBlazer: Trajectory Control for Diffusion-Based Video Generation
+
+[📄 Paper](http://arxiv.org/abs/2401.00896) | [🌐 Project Page](https://hohonu-vicml.github.io/Trailblazer.Page/) [💻 Code](https://github.com/hohonu-vicml/Trailblazer)
+
+DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory
+
+[📄 Paper](https://www.microsoft.com/en-us/research/publication/dragnuwa-fine-grained-control-in-video-generation-by-integrating-text-image-and-trajectory/bibtex/) | [🌐 Project Page](https://www.microsoft.com/en-us/research/project/dragnuwa/) [💻 Code](https://github.com/ProjectNUWA/DragNUWA)
+
+Tora: Trajectory-oriented Diffusion Transformer for Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2407.21705) | [🌐 Project Page](https://ali-videoai.github.io/tora_video/)
+
+Controllable Longer Image Animation with Diffusion Models
+
+[📄 Paper](https://arxiv.org/abs/2405.17306) | [🌐 Project Page](https://wangqiang9.github.io/Controllable.github.io/)
+
+MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
+
+[📄 Paper](https://arxiv.org/pdf/2312.03641.pdf) | [🌐 Project Page](https://wzhouxiff.github.io/projects/MotionCtrl/) [💻 Code](https://github.com/TencentARC/MotionCtrl)
+
 
 
