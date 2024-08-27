@@ -4,6 +4,13 @@
 
 Awesome Controllable Video Generation with Diffusion Models.
 
+## Table of Contents
+- [Pose Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/edit/main/README.md#pose-control)
+- [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/edit/main/README.md#audio-control)
+- [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/edit/main/README.md#universal-control)
+- [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/edit/main/README.md#camera-control)
+- [Trajectory control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/edit/main/README.md#trajectory-control)
+
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
 
