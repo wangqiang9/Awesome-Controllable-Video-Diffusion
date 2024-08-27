@@ -95,6 +95,10 @@ Listen, denoise, action! Audio-driven motion synthesis with diffusion models
 
 [📄 Paper](https://arxiv.org/abs/2211.09707) | [🌐 Project Page](https://www.speech.kth.se/research/listen-denoise-action/) [💻 Code](https://github.com/simonalexanderson/ListenDenoiseAction/)
 
+CoDi: Any-to-Any Generation via Composable Diffusion
+
+[📄 Paper](http://arxiv.org/abs/2305.11846) | [🌐 Project Page](https://codi-gen.github.io/) [💻 Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
+
 ## Universal Control
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
