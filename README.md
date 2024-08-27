@@ -215,4 +215,8 @@ ActAnywhere: Subject-Aware Video Background Generation
 
 [📄 Paper](https://arxiv.org/abs/2401.10822) | [🌐 Project Page](https://actanywhere.github.io/)
 
+MotionBooth: Motion-Aware Customized Text-to-Video Generation
+
+[📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
+
 
