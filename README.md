@@ -100,6 +100,19 @@ CoDi: Any-to-Any Generation via Composable Diffusion
 
 [📄 Paper](http://arxiv.org/abs/2305.11846) | [🌐 Project Page](https://codi-gen.github.io/) [💻 Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
 
+Generative Disco: Text-to-Video Generation for Music Visualization
+
+[📄 Paper](https://arxiv.org/abs/2304.08551)
+
+AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion
+
+[📄 Paper](https://arxiv.org/abs/2305.04001)
+
+EMO: Emote Portrait Alive Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
+
+[📄 Paper](https://arxiv.org/abs/2402.17485) | [🌐 Project Page](https://humanaigc.github.io/emote-portrait-alive/) [💻 Code](https://github.com/HumanAIGC/EMO)
+
+
 ## Universal Control
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
