@@ -12,6 +12,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
 - [Subject Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#subject-control)
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
+- [Video Control]()
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -261,5 +262,12 @@ AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance
 Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling
 
 [📄 Paper](https://arxiv.org/abs/2401.15977) | [🌐 Project Page](https://xiaoyushi97.github.io/Motion-I2V/)
+
+## Video Control
+
+Customizing Motion in Text-to-Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/pdf/2312.04966.pdf) | [🌐 Project Page](https://joaanna.github.io/customizing_motion/)
+
 
 
