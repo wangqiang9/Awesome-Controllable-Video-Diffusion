@@ -87,6 +87,23 @@ Listen, denoise, action! Audio-driven motion synthesis with diffusion models
 
 [📄 Paper](https://arxiv.org/abs/2211.09707) | [🌐 Project Page](https://www.speech.kth.se/research/listen-denoise-action/) [💻 Code](https://github.com/simonalexanderson/ListenDenoiseAction/)
 
+## Universal control
+ControlNeXt: Powerful and Efficient Control for Image and Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://pbihao.github.io/projects/controlnext/index.html) [💻 Code](https://github.com/dvlab-research/ControlNeXt)
+
+TrackGo: A Flexible and Efficient Method for Controllable Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2408.11475) | [🌐 Project Page](https://zhtjtcz.github.io/TrackGo-Page/#) [💻 Code](https://zhtjtcz.github.io/TrackGo-Page/#)
+
+VideoComposer: Compositional Video Synthesis with Motion Controllability
+
+[📄 Paper](https://arxiv.org/abs/2306.02018) | [🌐 Project Page](https://videocomposer.github.io/) [💻 Code](https://github.com/damo-vilab/videocomposer)
+
+Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance
+
+[📄 Paper](https://arxiv.org/abs/2306.00943) | [🌐 Project Page](https://doubiiu.github.io/projects/Make-Your-Video/) [💻 Code](https://github.com/VideoCrafter/Make-Your-Video)
+
 ## Camera Control
 
 MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
