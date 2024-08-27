@@ -10,6 +10,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#universal-control)
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
+- [Subject Control]()
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -199,5 +200,7 @@ Direct-a-Video: Customized Video Generation with User-Directed Camera Movement a
 Generative Image Dynamics
 
 [📄 Paper](https://arxiv.org/abs/2309.07906) | [🌐 Project Page](https://generative-dynamics.github.io/)
+
+## Subject Control
 
 
