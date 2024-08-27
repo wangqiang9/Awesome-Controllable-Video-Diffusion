@@ -9,7 +9,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#audio-control)
 - [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#universal-control)
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
-- [Trajectory control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
+- [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
@@ -150,7 +150,7 @@ Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
 [📄 Paper](https://arxiv.org/pdf/2406.17601) | [🌐 Project Page](https://imlixinyang.github.io/director3d-page/) [💻 Code](https://github.com/imlixinyang/director3d)
 
 
-## Trajectory control
+## Trajectory Control
 
 FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models
 
