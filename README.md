@@ -41,6 +41,22 @@ Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer
 
 [📄 Paper](https://arxiv.org/abs/2405.17405) | [🌐 Project Page](https://human4dit.github.io/)
 
+MimicMotion : High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance
+
+[📄 Paper](https://arxiv.org/abs/2406.19680) | [🌐 Project Page](https://tencent.github.io/MimicMotion/) [💻 Code](https://github.com/tencent/MimicMotion)
+
+Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control
+
+[📄 Paper](https://arxiv.org/abs/2406.03035) | [🌐 Project Page](https://follow-your-pose-v2.github.io/)
+
+HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation
+
+[📄 Paper](https://arxiv.org/abs/2407.17438) | [🌐 Project Page](https://humanvid.github.io/) [💻 Code](https://github.com/zhenzhiwang/HumanVid)
+
+Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
+
+[📄 Paper](https://arxiv.org/abs/2304.01186) | [🌐 Project Page](https://follow-your-pose.github.io/) [💻 Code](https://github.com/mayuelala/FollowYourPose)
+
 ## Motion Control
 
 
@@ -54,7 +70,6 @@ MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 CameraCtrl: Enabling Camera Control for Text-to-Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2404.02101) | [🌐 Project Page](https://hehao13.github.io/projects-CameraCtrl/) [💻 Code](https://github.com/hehao13/CameraCtrl)
-
 
 VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control
 
@@ -71,3 +86,7 @@ CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation
 Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control
 
 [📄 Paper](https://arxiv.org/pdf/2405.17414) | [🌐 Project Page](https://collaborativevideodiffusion.github.io/)
+
+HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation
+
+[📄 Paper](https://arxiv.org/abs/2407.17438) | [🌐 Project Page](https://humanvid.github.io/) [💻 Code](https://github.com/zhenzhiwang/HumanVid)
