@@ -13,7 +13,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Subject Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#subject-control)
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
 - [Video Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#video-control)
-- [Brain Control]()
+- [Brain Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
 
 ## Pose Control
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
