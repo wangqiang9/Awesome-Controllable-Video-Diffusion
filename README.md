@@ -112,6 +112,9 @@ EMO: Emote Portrait Alive Generating Expressive Portrait Videos with Audio2Video
 
 [📄 Paper](https://arxiv.org/abs/2402.17485) | [🌐 Project Page](https://humanaigc.github.io/emote-portrait-alive/) | [💻 Code](https://github.com/HumanAIGC/EMO)
 
+Context-aware Talking Face Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2402.18092)
 
 ## Universal Control
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
@@ -247,5 +250,8 @@ Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts
 
 [📄 Paper](https://arxiv.org/abs/2403.08268) | [🌐 Project Page](https://follow-your-click.github.io/) | [💻 Code](https://github.com/mayuelala/FollowYourClick)
 
+AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance
+
+[📄 Paper](https://arxiv.org/pdf/2311.12886.pdf) | [🌐 Project Page](https://animationai.github.io/AnimateAnything/) | [💻 Code](https://github.com/alibaba/animate-anything)
 
 
