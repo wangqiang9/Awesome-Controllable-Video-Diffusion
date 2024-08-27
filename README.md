@@ -143,6 +143,10 @@ SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models
 
 [📄 Paper](https://arxiv.org/abs/2311.16933) | [🌐 Project Page](https://guoyww.github.io/projects/SparseCtrl/) | [💻 Code](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
 
+VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet
+
+[📄 Paper](https://arxiv.org/abs/2307.14073) | [🌐 Project Page](https://vcg-aigc.github.io/) | [💻 Code](https://github.com/ZhihaoHu/VideoControlNet)
+
 ## Camera Control
 
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
