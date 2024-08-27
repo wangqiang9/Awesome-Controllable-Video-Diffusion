@@ -196,3 +196,8 @@ Direct-a-Video: Customized Video Generation with User-Directed Camera Movement a
 
 [📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) [💻 Code](https://github.com/ysy31415/direct_a_video)
 
+Generative Image Dynamics
+
+[📄 Paper](https://arxiv.org/abs/2309.07906) | [🌐 Project Page](https://generative-dynamics.github.io/)
+
+
