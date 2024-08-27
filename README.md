@@ -282,6 +282,10 @@ MotionClone: Training-Free Motion Cloning for Controllable Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2406.05338) | [🌐 Project Page](https://bujiazi.github.io/motionclone.github.io/) | [💻 Code](https://github.com/Bujiazi/MotionClone)
 
+VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models
+
+[📄 Paper](https://video-motion-customization.github.io/static/video-motion-customization(vmc)-arxiv.pdf) | [🌐 Project Page](https://video-motion-customization.github.io/) | [💻 Code](https://github.com/HyeonHo99/Video-Motion-Customization)
+
 ## Brain Control 
 
 NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
