@@ -254,4 +254,8 @@ AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance
 
 [📄 Paper](https://arxiv.org/pdf/2311.12886.pdf) | [🌐 Project Page](https://animationai.github.io/AnimateAnything/) | [💻 Code](https://github.com/alibaba/animate-anything)
 
+Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling
+
+[📄 Paper](https://arxiv.org/abs/2401.15977) | [🌐 Project Page](https://xiaoyushi97.github.io/Motion-I2V/)
+
 
