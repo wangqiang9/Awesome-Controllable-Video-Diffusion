@@ -180,5 +180,7 @@ MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 
 [📄 Paper](https://arxiv.org/pdf/2312.03641.pdf) | [🌐 Project Page](https://wzhouxiff.github.io/projects/MotionCtrl/) [💻 Code](https://github.com/TencentARC/MotionCtrl)
 
+MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
+[📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
 
