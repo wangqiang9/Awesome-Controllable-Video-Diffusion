@@ -117,6 +117,10 @@ UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Mod
 
 ## Camera Control
 
+Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
+
+[📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) [💻 Code](https://github.com/ysy31415/direct_a_video)
+
 MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 
 [📄 Paper](https://arxiv.org/pdf/2312.03641.pdf) | [🌐 Project Page](https://wzhouxiff.github.io/projects/MotionCtrl/) [💻 Code](https://github.com/TencentARC/MotionCtrl)
@@ -187,4 +191,8 @@ MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
 MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
 [📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
+
+Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
+
+[📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) [💻 Code](https://github.com/ysy31415/direct_a_video)
 
