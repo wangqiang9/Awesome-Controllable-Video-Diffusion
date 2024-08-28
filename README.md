@@ -286,6 +286,10 @@ VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Vi
 
 [📄 Paper](https://video-motion-customization.github.io/static/video-motion-customization(vmc)-arxiv.pdf) | [🌐 Project Page](https://video-motion-customization.github.io/) | [💻 Code](https://github.com/HyeonHo99/Video-Motion-Customization)
 
+Motion Inversion for Video Customization
+
+[📄 Paper](https://arxiv.org/abs/2403.20193) | [🌐 Project Page](https://wileewang.github.io/MotionInversion/) | [💻 Code](https://github.com/EnVision-Research/MotionInversion)
+
 ## Brain Control 
 
 NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
