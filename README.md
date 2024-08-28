@@ -236,6 +236,10 @@ Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video
 
 [📄 Paper](https://arxiv.org/abs/2401.10150)
 
+Video Diffusion Models are Training-free Motion Interpreter and Controlle
+
+[📄 Paper](https://arxiv.org/abs/2405.14864) | [🌐 Project Page](https://xizaoqu.github.io/moft/)
+
 ## Subject Control
 
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
