@@ -147,6 +147,10 @@ VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using D
 
 [📄 Paper](https://arxiv.org/abs/2307.14073) | [🌐 Project Page](https://vcg-aigc.github.io/) | [💻 Code](https://github.com/ZhihaoHu/VideoControlNet)
 
+Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models  
+
+[📄 Paper](https://arxiv.org/abs/2407.15642) | [🌐 Project Page](https://maxin-cn.github.io/cinemo_project/) | [💻 Code](https://github.com/maxin-cn/Cinemo)
+
 ## Camera Control
 
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
