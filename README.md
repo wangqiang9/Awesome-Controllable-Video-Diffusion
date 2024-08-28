@@ -123,9 +123,17 @@ ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://pbihao.github.io/projects/controlnext/index.html) | [💻 Code](https://github.com/dvlab-research/ControlNeXt)
 
+Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models
+
+[📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://controlavideo.github.io/) | [💻 Code](https://github.com/Weifeng-Chen/control-a-video)
+
+ControlVideo: Training-free Controllable Text-to-Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2305.13077) | [💻 Code](https://github.com/YBYBZhang/ControlVideo)
+
 TrackGo: A Flexible and Efficient Method for Controllable Video Generation
 
-[📄 Paper](https://arxiv.org/abs/2408.11475) | [🌐 Project Page](https://zhtjtcz.github.io/TrackGo-Page/#) | [💻 Code](https://zhtjtcz.github.io/TrackGo-Page/#)
+[📄 Paper](https://controlavideo.github.io/#paper) | [🌐 Project Page](https://zhtjtcz.github.io/TrackGo-Page/#) | [💻 Code](https://zhtjtcz.github.io/TrackGo-Page/#)
 
 VideoComposer: Compositional Video Synthesis with Motion Controllability
 
