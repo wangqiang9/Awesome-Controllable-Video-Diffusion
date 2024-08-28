@@ -224,6 +224,10 @@ MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
 [📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
 
+Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics
+
+[📄 Paper](https://arxiv.org/pdf/2408.04631) | [🌐 Project Page](https://vgg-puppetmaster.github.io/) | [💻 Code](https://github.com/RuiningLi/puppet-master)
+
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
 
 [📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) | [💻 Code](https://github.com/ysy31415/direct_a_video)
