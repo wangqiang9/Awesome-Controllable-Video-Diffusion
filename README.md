@@ -161,6 +161,10 @@ Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models
 
 ## Camera Control
 
+CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers
+
+[📄 Paper](https://arxiv.org/abs/2405.13195)
+
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
 
 [📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) | [💻 Code](https://github.com/ysy31415/direct_a_video)
