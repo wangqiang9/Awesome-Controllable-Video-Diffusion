@@ -161,6 +161,10 @@ Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models
 
 ## Camera Control
 
+CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
+
+[📄 Paper](https://arxiv.org/html/2408.17424v1)
+
 CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers
 
 [📄 Paper](https://arxiv.org/abs/2405.13195)
