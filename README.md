@@ -287,6 +287,10 @@ Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2307.06940) | [💻 Code](https://github.com/AILab-CVC/Animate-A-Story)
 
+One-Shot Learning Meets Depth Diffusion in Multi-Object Videos
+
+[📄 Paper](https://arxiv.org/abs/2408.16704)
+
 ## Area Control
 
 Boximator: Generating Rich and Controllable Motions for Video Synthesis
