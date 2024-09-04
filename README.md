@@ -218,6 +218,9 @@ MotionBooth: Motion-Aware Customized Text-to-Video Generation
 
 [📄 Paper](http://arxiv.org/abs/2406.17758v1) | [💻 Code](https://github.com/jianzongwu/MotionBooth)
 
+DiffDreamer: Towards Consistent Unsupervised Single-view Scene Extrapolation with Conditional Diffusion Models
+
+[📄 Paper](https://primecai.github.io/static/pdfs/diffdreamer.pdf) | [🌐 Project Page]([https://imlixinyang.github.io/director3d-page/](https://primecai.github.io/diffdreamer))
 
 ## Trajectory Control
 
