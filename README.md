@@ -17,6 +17,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 
 ## Pose Control
 
+DynamicPose: A robust image-to-video framework for portrait animation driven by pose sequences
+
+ [💻 Code](https://github.com/dynamic-X-LAB/DynamicPose)
+
 Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2408.16506)
