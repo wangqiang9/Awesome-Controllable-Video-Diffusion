@@ -311,7 +311,7 @@ Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit 
 
 Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion
 
-[📄 Paper](https://arxiv.org/abs/2407.13759)
+[📄 Paper](https://arxiv.org/abs/2407.13759) | [🌐 Project Page](https://boyangdeng.com/streetscapes/)
 
 ## Video Control
 
