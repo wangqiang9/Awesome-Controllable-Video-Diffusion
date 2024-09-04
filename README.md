@@ -16,6 +16,11 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Brain Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
 
 ## Pose Control
+
+Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2408.16506)
+
 Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos
 
 [📄 Paper](https://arxiv.org/abs/2304.01186) | [🌐 Project Page](https://follow-your-pose.github.io/) | [💻 Code](https://github.com/mayuelala/FollowYourPose)
