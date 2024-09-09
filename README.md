@@ -278,6 +278,10 @@ Video Diffusion Models are Training-free Motion Interpreter and Controlle
 
 ## Subject Control
 
+Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos
+
+[📄 Paper](https://arxiv.org/pdf/2404.17571)
+
 Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion
 
 [📄 Paper](https://arxiv.org/abs/2402.03162) | [🌐 Project Page](https://direct-a-video.github.io/) | [💻 Code](https://github.com/ysy31415/direct_a_video)
