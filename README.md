@@ -170,6 +170,10 @@ Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models
 
 ## Camera Control
 
+MotionMaster: Training-free Camera Motion Transfer For Video Generation
+
+[📄 Paper](https://arxiv.org/pdf/2404.15789) | [🌐 Project Page](https://sjtuplayer.github.io/projects/MotionMaster/) | [💻 Code](https://github.com/sjtuplayer/MotionMaster)
+
 CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
 
 [📄 Paper](https://arxiv.org/html/2408.17424v1)
