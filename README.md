@@ -14,7 +14,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
 - [Video Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#video-control)
 - [Brain Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
-- [FaceID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
+- [FaceID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#faceid-control)
 
 ## Pose Control
 
