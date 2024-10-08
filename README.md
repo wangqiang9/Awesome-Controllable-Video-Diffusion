@@ -14,6 +14,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
 - [Video Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#video-control)
 - [Brain Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
+- [FaceID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
 
 ## Pose Control
 
@@ -352,8 +353,8 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 
 [📄 Paper](https://arxiv.org/abs/2402.01590)
 
-Mind-Video: Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity
+## FaceID Control
 
-[📄 Paper](https://arxiv.org/abs/2305.11675) | [🌐 Project Page](https://www.mind-video.com/) | [💻 Code](https://github.com/jqin4749/MindVideo)
+Movie Gen: A Cast of Media Foundation Models
 
-
+[📄 Paper](https://ai.meta.com/static-resource/movie-gen-research-paper)
