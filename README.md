@@ -358,3 +358,8 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 Movie Gen: A Cast of Media Foundation Models
 
 [📄 Paper](https://ai.meta.com/static-resource/movie-gen-research-paper)
+
+ID-Animator: Zero-Shot Identity-Preserving Human Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2404.15275) | [🌐 Project Page](https://id-animator.github.io/) | [💻 Code](https://github.com/ID-Animator/ID-Animator)
+
