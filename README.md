@@ -367,4 +367,7 @@ VideoBooth: Diffusion-based Video Generation with Image Prompts
 
 [📄 Paper](https://github.com/Vchitect/VideoBooth/blob/main/xxxx) | [🌐 Project Page](https://vchitect.github.io/VideoBooth-project/) | [💻 Code](https://github.com/Vchitect/VideoBooth)
 
+Magic-Me: Identity-Specific Video Customized Diffusion
+
+[📄 Paper](https://arxiv.org/abs/2402.09368) | [🌐 Project Page](https://magic-me-webpage.github.io/) | [💻 Code](https://github.com/Zhen-Dong/Magic-Me)
 
