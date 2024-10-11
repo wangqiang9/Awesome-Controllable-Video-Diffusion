@@ -14,7 +14,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [Area Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#area-control)
 - [Video Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#video-control)
 - [Brain Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#brain-control)
-- [FaceID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#faceid-control)
+- [ID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#faceid-control)
 
 ## Pose Control
 
@@ -353,7 +353,7 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 
 [📄 Paper](https://arxiv.org/abs/2402.01590)
 
-## FaceID Control
+## ID Control
 
 Movie Gen: A Cast of Media Foundation Models
 
@@ -362,4 +362,9 @@ Movie Gen: A Cast of Media Foundation Models
 ID-Animator: Zero-Shot Identity-Preserving Human Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2404.15275) | [🌐 Project Page](https://id-animator.github.io/) | [💻 Code](https://github.com/ID-Animator/ID-Animator)
+
+VideoBooth: Diffusion-based Video Generation with Image Prompts
+
+[📄 Paper](https://github.com/Vchitect/VideoBooth/blob/main/xxxx) | [🌐 Project Page](https://vchitect.github.io/VideoBooth-project/) | [💻 Code](https://github.com/Vchitect/VideoBooth)
+
 
