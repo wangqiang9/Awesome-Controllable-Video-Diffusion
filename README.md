@@ -18,6 +18,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 
 ## Pose Control
 
+TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio-Motion Embedding and Diffusion Interpolation
+
+[📄 Paper](https://arxiv.org/abs/2410.04221) | [🌐 Project Page](https://pantomatrix.github.io/TANGO/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
+
 DynamicPose: A robust image-to-video framework for portrait animation driven by pose sequences
 
  [💻 Code](https://github.com/dynamic-X-LAB/DynamicPose)
