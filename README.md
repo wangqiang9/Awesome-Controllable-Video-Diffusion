@@ -18,6 +18,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 
 ## Pose Control
 
+MikuDance: Animating Character Art with Mixed Motion Dynamics
+
+[📄 Paper](https://arxiv.org/abs/2411.08656) | [🌐 Project Page](https://kebii.github.io/MikuDance/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
+
 TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio-Motion Embedding and Diffusion Interpolation
 
 [📄 Paper](https://arxiv.org/abs/2410.04221) | [🌐 Project Page](https://pantomatrix.github.io/TANGO/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
