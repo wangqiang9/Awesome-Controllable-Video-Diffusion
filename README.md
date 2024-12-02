@@ -18,6 +18,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 
 ## Pose Control
 
+EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
+
+[📄 Paper](https://arxiv.org/abs/2411.10061) | [🌐 Project Page](https://github.com/antgroup/echomimic_v2) | [💻 Code](https://github.com/antgroup/echomimic_v2)
+
 MikuDance: Animating Character Art with Mixed Motion Dynamics
 
 [📄 Paper](https://arxiv.org/abs/2411.08656) | [🌐 Project Page](https://kebii.github.io/MikuDance/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
