@@ -367,6 +367,10 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 
 ## ID Control
 
+Identity-Preserving Text-to-Video Generation by Frequency Decomposition
+
+[📄 Paper](https://arxiv.org/abs/2411.17440) | [🌐 Project Page](https://pku-yuangroup.github.io/ConsisID/) | [💻 Code](https://github.com/PKU-YuanGroup/ConsisID)
+
 Movie Gen: A Cast of Media Foundation Models
 
 [📄 Paper](https://ai.meta.com/static-resource/movie-gen-research-paper)
