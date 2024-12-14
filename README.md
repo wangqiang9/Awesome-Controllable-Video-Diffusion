@@ -96,6 +96,10 @@ MDM: Human Motion Diffusion Model
 
 ## Audio Control
 
+Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation
+
+[📄 Paper](https://arxiv.org/abs/2410.07718) | [🌐 Project Page](https://fudan-generative-vision.github.io/hallo2/#/) | [💻 Code](https://github.com/fudan-generative-vision/hallo2)
+
 Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
 [📄 Paper](https://arxiv.org/pdf/2404.01862) | [🌐 Project Page](https://thuhcsi.github.io/S2G-MDDiffusion/) | [💻 Code](https://github.com/thuhcsi/S2G-MDDiffusion)
