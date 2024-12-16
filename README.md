@@ -96,6 +96,10 @@ MDM: Human Motion Diffusion Model
 
 ## Audio Control
 
+MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2412.04448) | [🌐 Project Page](https://memoavatar.github.io/)  | [💻 Code](https://github.com/memoavatar/memo)
+
 Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation
 
 [📄 Paper](https://arxiv.org/abs/2410.07718) | [🌐 Project Page](https://fudan-generative-vision.github.io/hallo2/#/) | [💻 Code](https://github.com/fudan-generative-vision/hallo2)
