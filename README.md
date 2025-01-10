@@ -24,7 +24,11 @@ EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
 
 MikuDance: Animating Character Art with Mixed Motion Dynamics
 
-[📄 Paper](https://arxiv.org/abs/2411.08656) | [🌐 Project Page](https://kebii.github.io/MikuDance/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
+[📄 Paper](https://arxiv.org/abs/2411.08656) | [🌐 Project Page](https://igl-hkust.github.io/das/) | [💻 Code](https://github.com/IGL-HKUST/DiffusionAsShader)
+
+Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control
+
+[📄 Paper](https://arxiv.org/abs/2501.03847) | [🌐 Project Page](https://kebii.github.io/MikuDance/) | [💻 Code](https://github.com/CyberAgentAILab/TANGO)
 
 TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio-Motion Embedding and Diffusion Interpolation
 
