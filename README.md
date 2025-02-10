@@ -100,6 +100,10 @@ MDM: Human Motion Diffusion Model
 
 ## Audio Control
 
+Every Image Listens, Every Image Dances: Music-Driven Image Animation
+
+[📄 Paper](https://arxiv.org/pdf/2501.18801)
+
 MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2412.04448) | [🌐 Project Page](https://memoavatar.github.io/)  | [💻 Code](https://github.com/memoavatar/memo)
