@@ -261,6 +261,10 @@ DiffDreamer: Towards Consistent Unsupervised Single-view Scene Extrapolation wit
 
 ## Trajectory Control
 
+MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation
+
+[📄 Paper](https://drive.google.com/file/d/1KICCyd58ZOlQXj_-c5GtiYzeaewg4UjY/view?usp=sharing) | [🌐 Project Page](https://motion-canvas25.github.io/)
+
 FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models
 
 [📄 Paper](https://arxiv.org/abs/2406.16863) | [🌐 Project Page](http://haonanqiu.com/projects/FreeTraj.html) | [💻 Code](https://github.com/arthur-qiu/FreeTraj)
