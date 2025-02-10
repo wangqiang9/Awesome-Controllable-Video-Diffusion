@@ -18,6 +18,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 
 ## Pose Control
 
+OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models
+
+[📄 Paper](http://arxiv.org/abs/2502.01061) | [🌐 Project Page](https://omnihuman-lab.github.io/) 
+
 EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
 
 [📄 Paper](https://arxiv.org/abs/2411.10061) | [🌐 Project Page](https://github.com/antgroup/echomimic_v2) | [💻 Code](https://github.com/antgroup/echomimic_v2)
