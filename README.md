@@ -391,6 +391,10 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 
 ## ID Control
 
+FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2502.13995) | [🌐 Project Page](https://fantasy-amap.github.io/fantasy-id/) | [💻 Code](https://github.com/Fantasy-AMAP/fantasy-id)
+
 Identity-Preserving Text-to-Video Generation by Frequency Decomposition
 
 [📄 Paper](https://arxiv.org/abs/2411.17440) | [🌐 Project Page](https://pku-yuangroup.github.io/ConsisID/) | [💻 Code](https://github.com/PKU-YuanGroup/ConsisID)
