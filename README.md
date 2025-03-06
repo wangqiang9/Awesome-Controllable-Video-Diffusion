@@ -395,9 +395,17 @@ Identity-Preserving Text-to-Video Generation by Frequency Decomposition
 
 [📄 Paper](https://arxiv.org/abs/2411.17440) | [🌐 Project Page](https://pku-yuangroup.github.io/ConsisID/) | [💻 Code](https://github.com/PKU-YuanGroup/ConsisID)
 
+VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/abs/2412.19645) | [🌐 Project Page](https://wutao-cs.github.io/VideoMaker/) | [💻 Code](https://github.com/WuTao-CS/VideoMaker)
+
 Movie Gen: A Cast of Media Foundation Models
 
 [📄 Paper](https://ai.meta.com/static-resource/movie-gen-research-paper)
+
+CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities
+
+[📄 Paper](https://arxiv.org/abs/2408.13239) | [🌐 Project Page](https://customcrafter.github.io/) | [💻 Code](https://github.com/WuTao-CS/CustomCrafter)
 
 ID-Animator: Zero-Shot Identity-Preserving Human Video Generation
 
