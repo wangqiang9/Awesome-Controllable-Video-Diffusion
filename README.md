@@ -104,6 +104,10 @@ MDM: Human Motion Diffusion Model
 
 ## Audio Control
 
+FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis
+
+[📄 Paper](https://arxiv.org/abs/2504.04842) | [🌐 Project Page](https://fantasy-amap.github.io/fantasy-talking/)  | [💻 Code](https://github.com/Fantasy-AMAP/fantasy-talking)
+
 Every Image Listens, Every Image Dances: Music-Driven Image Animation
 
 [📄 Paper](https://arxiv.org/pdf/2501.18801)
