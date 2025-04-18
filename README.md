@@ -7,7 +7,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 ## Table of Contents
 - [Pose Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#pose-control)
 - [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#audio-control)
-- [Expression Control]()
+- [Expression Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#expression-control)
 - [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#universal-control)
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
@@ -171,8 +171,32 @@ Context-aware Talking Face Video Generation
 
 ## Expression Control
 
+X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention
+
+[📄 Paper](https://arxiv.org/abs/2403.15931) | [🌐 Project Page](https://byteaigc.github.io/x-portrait/) | [💻 Code](https://github.com/bytedance/X-Portrait)
+
+HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models
+
+[📄 Paper](https://arxiv.org/pdf/2410.22901) | [🌐 Project Page](https://songkey.github.io/hellomeme/) | [💻 Code](https://github.com/HelloVision/HelloMeme)
+
+SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers
+
+[📄 Paper](https://arxiv.org/pdf/2410.22901) | [🌐 Project Page](https://skyworkai.github.io/skyreels-a1.github.io/) | [💻 Code](https://github.com/SkyworkAI/SkyReels-A1)
+
+DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance
+
+[📄 Paper](https://arxiv.org/abs/2504.01724) | [🌐 Project Page](https://grisoon.github.io/DreamActor-M1/) 
+
+Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation
+
+[📄 Paper](https://arxiv.org/abs/2406.01900) | [🌐 Project Page](https://follow-your-emoji.github.io/) | [💻 Code](https://github.com/mayuelala/FollowYourEmoji)
+
+Echomimic: Lifelike audio-driven portrait animations through editable landmark conditions
+
+[📄 Paper](https://arxiv.org/abs/2407.08136) | [🌐 Project Page](https://antgroup.github.io/ai/echomimic/) | [💻 Code](https://github.com/antgroup/echomimic)
 
 ## Universal Control
+
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://pbihao.github.io/projects/controlnext/index.html) | [💻 Code](https://github.com/dvlab-research/ControlNeXt)
