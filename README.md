@@ -7,6 +7,7 @@ Awesome Controllable Video Generation with Diffusion Models.
 ## Table of Contents
 - [Pose Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#pose-control)
 - [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#audio-control)
+- [Expression Control]()
 - [Universal Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#universal-control)
 - [Camera Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#camera-control)
 - [Trajectory Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#trajectory-control)
@@ -17,6 +18,10 @@ Awesome Controllable Video Generation with Diffusion Models.
 - [ID Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion/blob/main/README.md#faceid-control)
 
 ## Pose Control
+
+UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer
+
+[📄 Paper](https://arxiv.org/abs/2504.11289) | [💻 Code](https://github.com/ali-vilab/UniAnimate-DiT)
 
 OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models
 
@@ -163,6 +168,9 @@ EMO: Emote Portrait Alive Generating Expressive Portrait Videos with Audio2Video
 Context-aware Talking Face Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2402.18092)
+
+## Expression Control
+
 
 ## Universal Control
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
