@@ -197,6 +197,10 @@ Echomimic: Lifelike audio-driven portrait animations through editable landmark c
 
 ## Universal Control
 
+VACE: All-in-One Video Creation and Editing
+
+[📄 Paper](https://arxiv.org/abs/2503.07598) | [🌐 Project Page](https://ali-vilab.github.io/VACE-Page/) | [💻 Code](https://github.com/ali-vilab/VACE)
+
 ControlNeXt: Powerful and Efficient Control for Image and Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2408.06070) | [🌐 Project Page](https://pbihao.github.io/projects/controlnext/index.html) | [💻 Code](https://github.com/dvlab-research/ControlNeXt)
@@ -430,6 +434,14 @@ NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties
 FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2502.13995) | [🌐 Project Page](https://fantasy-amap.github.io/fantasy-id/) | [💻 Code](https://github.com/Fantasy-AMAP/fantasy-id)
+
+Concat-ID: Towards Universal Identity-Preserving Video Synthesis
+
+[📄 Paper](https://arxiv.org/abs/2503.14151) | [🌐 Project Page](https://ml-gsai.github.io/Concat-ID-demo/) | [💻 Code](https://github.com/ML-GSAI/Concat-IDIn)
+
+Ingredients: Blending Custom Photos with Video Diffusion Transformers
+
+[📄 Paper](https://arxiv.org/abs/2501.01790) | [💻 Code](https://github.com/feizc/Ingredients)
 
 Identity-Preserving Text-to-Video Generation by Frequency Decomposition
 
