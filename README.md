@@ -359,6 +359,10 @@ Video Diffusion Models are Training-free Motion Interpreter and Controlle
 
 ## Subject Control
 
+Phantom: Subject-consistent video generation via cross-modal alignment
+
+[📄 Paper](https://arxiv.org/abs/2502.11079) | [🌐 Project Page](https://phantom-video.github.io/Phantom/)
+
 Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos
 
 [📄 Paper](https://arxiv.org/pdf/2404.17571)
