@@ -171,6 +171,10 @@ Context-aware Talking Face Video Generation
 
 ## Expression Control
 
+FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers
+
+[📄 Paper](https://arxiv.org/pdf/2507.12956) | [🌐 Project Page](https://fantasy-amap.github.io/fantasy-portrait/) | [💻 Code](https://github.com/Fantasy-AMAP/fantasy-portrait)
+
 X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention
 
 [📄 Paper](https://arxiv.org/abs/2403.15931) | [🌐 Project Page](https://byteaigc.github.io/x-portrait/) | [💻 Code](https://github.com/bytedance/X-Portrait)
